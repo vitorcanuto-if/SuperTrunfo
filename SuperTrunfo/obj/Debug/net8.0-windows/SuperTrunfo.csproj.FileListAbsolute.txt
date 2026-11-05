@@ -1,0 +1,16 @@
+C:\Users\Picha\Documents\Arquivos C#\SuperTrunfo\Jogos\SuperTrunfo\bin\Debug\net8.0-windows\SuperTrunfo.exe
+C:\Users\Picha\Documents\Arquivos C#\SuperTrunfo\Jogos\SuperTrunfo\bin\Debug\net8.0-windows\SuperTrunfo.deps.json
+C:\Users\Picha\Documents\Arquivos C#\SuperTrunfo\Jogos\SuperTrunfo\bin\Debug\net8.0-windows\SuperTrunfo.runtimeconfig.json
+C:\Users\Picha\Documents\Arquivos C#\SuperTrunfo\Jogos\SuperTrunfo\bin\Debug\net8.0-windows\SuperTrunfo.dll
+C:\Users\Picha\Documents\Arquivos C#\SuperTrunfo\Jogos\SuperTrunfo\bin\Debug\net8.0-windows\SuperTrunfo.pdb
+C:\Users\Picha\Documents\Arquivos C#\SuperTrunfo\Jogos\SuperTrunfo\obj\Debug\net8.0-windows\SuperTrunfo.Form1.resources
+C:\Users\Picha\Documents\Arquivos C#\SuperTrunfo\Jogos\SuperTrunfo\obj\Debug\net8.0-windows\SuperTrunfo.csproj.GenerateResource.cache
+C:\Users\Picha\Documents\Arquivos C#\SuperTrunfo\Jogos\SuperTrunfo\obj\Debug\net8.0-windows\SuperTrunfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Picha\Documents\Arquivos C#\SuperTrunfo\Jogos\SuperTrunfo\obj\Debug\net8.0-windows\SuperTrunfo.AssemblyInfoInputs.cache
+C:\Users\Picha\Documents\Arquivos C#\SuperTrunfo\Jogos\SuperTrunfo\obj\Debug\net8.0-windows\SuperTrunfo.AssemblyInfo.cs
+C:\Users\Picha\Documents\Arquivos C#\SuperTrunfo\Jogos\SuperTrunfo\obj\Debug\net8.0-windows\SuperTrunfo.csproj.CoreCompileInputs.cache
+C:\Users\Picha\Documents\Arquivos C#\SuperTrunfo\Jogos\SuperTrunfo\obj\Debug\net8.0-windows\SuperTrunfo.dll
+C:\Users\Picha\Documents\Arquivos C#\SuperTrunfo\Jogos\SuperTrunfo\obj\Debug\net8.0-windows\refint\SuperTrunfo.dll
+C:\Users\Picha\Documents\Arquivos C#\SuperTrunfo\Jogos\SuperTrunfo\obj\Debug\net8.0-windows\SuperTrunfo.pdb
+C:\Users\Picha\Documents\Arquivos C#\SuperTrunfo\Jogos\SuperTrunfo\obj\Debug\net8.0-windows\SuperTrunfo.genruntimeconfig.cache
+C:\Users\Picha\Documents\Arquivos C#\SuperTrunfo\Jogos\SuperTrunfo\obj\Debug\net8.0-windows\ref\SuperTrunfo.dll
